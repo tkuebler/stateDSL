@@ -3,6 +3,8 @@
 
 An event driven FSM DSL for Unity and C#.
 
+(note: [use the wiki](https://github.com/tkuebler/stateDSL/wiki) for brainstorming ideas if you want to contribute to the DSL design discussion)
+
 ## Objective
 
 Create a trivial to use FSM DSL that can be embedded in a C# Unity environment.
