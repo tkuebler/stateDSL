@@ -26,8 +26,9 @@ Optional (Unicorns Eating Pie in Sky):
 1. Support for javascript.
 1. Support for delegate subscription to events ( faster than unity's events )
 
-####Example:
+##Example:
 
+```C#
 	// script #1
 	FSM Example {
 	
@@ -57,9 +58,9 @@ Optional (Unicorns Eating Pie in Sky):
 				// C# code here
 			}
 	}
-	
+```	
 ------
-
+```C#
 	// Script #2
 	FSM Example {
 		state three {
@@ -75,7 +76,7 @@ Optional (Unicorns Eating Pie in Sky):
 			}
 			event C { // C# code }
 		}
-
+```
 
 ## Footnotes:
 
