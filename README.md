@@ -29,7 +29,7 @@ Optional (Unicorns Eating Pie in Sky):
 
 ##Example:
 
-```C#
+```cs
 	// script #1
 	FSM Example {
 	
@@ -61,7 +61,7 @@ Optional (Unicorns Eating Pie in Sky):
 	}
 ```	
 ------
-```C#
+```cs
 	// Script #2
 	FSM Example {
 		state three {
