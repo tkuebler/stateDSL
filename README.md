@@ -1,8 +1,9 @@
-#stateDSL
+
+# stateDSL
 
 An event driven FSM DSL for Unity and C#.
 
-##Objective
+## Objective
 
 Create a trivial to use FSM DSL that can be embedded in a C# Unity environment.
 
