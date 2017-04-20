@@ -1,4 +1,4 @@
-#Transition
+#stateDSL
 
 An event driven FSM DSL for Unity and C#.
 
